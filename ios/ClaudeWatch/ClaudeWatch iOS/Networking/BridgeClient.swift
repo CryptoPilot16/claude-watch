@@ -228,3 +228,4 @@ final class BridgeClient {
         let eventBufferSize: Int
     }
 }
+

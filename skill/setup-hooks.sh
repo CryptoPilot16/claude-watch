@@ -18,7 +18,7 @@ if [ "$1" = "--remove" ]; then
   if [ ! -f "$SETTINGS" ]; then
     echo "No settings file found at $SETTINGS"
     exit 0
-  fi
+  
 
   # Remove the hooks we added (identified by claude-watch URLs)
   python3 -c "
@@ -54,7 +54,7 @@ else:
     print('No Claude Watch hooks found.')
 "
   exit 0
-fi
+
 
 # ── Install mode ─────────────────────────────────────────────────────────────
 
@@ -179,3 +179,4 @@ echo "  2. Start any Claude Code session normally"
 echo "  3. Watch events flow into the Claude Watch app"
 echo ""
 echo "To remove hooks:  ./setup-hooks.sh --remove"
+sdsdds

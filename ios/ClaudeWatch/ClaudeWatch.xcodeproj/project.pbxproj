@@ -425,14 +425,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = T7HT4U4666;
+				DEVELOPMENT_TEAM = HP2DN695FY;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = "ClaudeWatch iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.shobhit.claudewatch;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cryptopilot.watchcontrol;
 				PRODUCT_NAME = "Claude Watch";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -448,11 +448,11 @@
 					arm64_32,
 				);
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = T7HT4U4666;
+				DEVELOPMENT_TEAM = HP2DN695FY;
 				"EXCLUDED_ARCHS[sdk=watchsimulator*]" = arm64e;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = "ClaudeWatch watchOS/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shobhit.claudewatch.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cryptopilot.watchcontrol.watchkitapp;
 				PRODUCT_NAME = "Claude Watch";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -470,11 +470,11 @@
 					arm64_32,
 				);
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = T7HT4U4666;
+				DEVELOPMENT_TEAM = HP2DN695FY;
 				"EXCLUDED_ARCHS[sdk=watchsimulator*]" = arm64e;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = "ClaudeWatch watchOS/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shobhit.claudewatch.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cryptopilot.watchcontrol.watchkitapp;
 				PRODUCT_NAME = "Claude Watch";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -608,14 +608,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = T7HT4U4666;
+				DEVELOPMENT_TEAM = HP2DN695FY;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = "ClaudeWatch iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.shobhit.claudewatch;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cryptopilot.watchcontrol;
 				PRODUCT_NAME = "Claude Watch";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
